@@ -10,4 +10,4 @@ Esta tercera linea es desde el portatil del trabajo.
 $ta linea Commit desde pc trabajo 02
 ESTA LINEA LA ESTOY EDITANDO PARA HACER UN COMMIT DESDE LA CUENTA YUNO, PERO YA ESTA FUERA LA CLAVE SSH.
 Solo conflictos.
-
+Edicion para manda a Pull Request
